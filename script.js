@@ -1,9 +1,9 @@
 //your JS code here. If required.
 function functionName(){
-	alert("functionName");
+	alert(functionName.name);
 }
-function AccioJob() {
-	alert("AccioJob");
+function AccioJob() { 
+	alert(AccioJob.name);
 }
 functionName();
 AccioJob();
